@@ -1,0 +1,76 @@
+.pageBack{
+    background-color: #c2e8ff;
+}
+.label{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 150px;
+    font-size: 300%;
+    color: rgb(0, 0, 0);
+   }
+   .textSize{
+    font-size: 100%;
+   }
+   .buttonColor{
+    background-color:  rgb(23, 104, 151);
+    color: rgb(23, 104, 151);
+   }
+   .firstButtonHar{
+    
+    width: 33%;
+    height: 80%;
+    background: linear-gradient(to right, #9ad6fb,rgb(24, 122, 174));
+    border-radius: 25px;
+}
+.firstButtonHar2{
+    
+    width: 33%;
+    height: 85%;
+    background: linear-gradient(to right, #9ad6fb,rgb(24, 122, 174));
+    border-radius: 25px;
+}
+.img2{
+  border-radius: 30px;
+  margin-top: 5px;
+ width: 90%;
+}
+.sth{
+    width: 10px;
+}
+.secondLineButton{
+    margin-top: 5%;
+    width: 33%;
+    height: 85%;
+    background: linear-gradient(to right, #9ad6fb,rgb(24, 122, 174));
+    border-radius: 25px;
+}
+.opr{
+    background: linear-gradient(to right, #9ad6fb,rgb(24, 122, 174));
+    border-radius: 25px;
+}
+.homeButton{
+    width: 5%;
+    text-align: start;
+    
+}
+.dataSize{
+    margin-top: 5%;
+    width: 33%;
+    height: 300px;
+    background: linear-gradient(to right, #9ad6fb,rgb(24, 122, 174));
+    border-radius: 25px;
+}
+.dataSize2{
+    
+    width: 33%;
+    height: 300px;
+    background: linear-gradient(to right, #9ad6fb,rgb(24, 122, 174));
+    border-radius: 25px;
+}
+.dataSize3{
+    margin-top: 5%;
+    width: 33%;
+    height: 300px;
+    background: linear-gradient(to right, #9ad6fb,rgb(24, 122, 174));
+    border-radius: 25px;
+}
